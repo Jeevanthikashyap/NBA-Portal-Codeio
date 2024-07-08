@@ -1,0 +1,57 @@
+.custom-container-body {
+    position: absolute;
+    top: 15%;
+    left: 5%;
+    color: white;
+}
+.drop-button {
+    background-color: #57C6F2;
+    padding: 2%;
+    border-radius: 25px;
+}
+
+.logout{
+    padding: 2%;
+}
+
+
+.custom-container-content {
+    padding: 10%;
+    width: 265%;
+}
+
+li {
+    list-style-type: none;
+    margin-bottom: 15%;
+}
+
+.top-header {
+    background-color: #F2600C;
+    padding: 1%;
+    text-align: center;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.allotment-content {
+    padding: 1%;
+    color: black;
+}
+
+.upload-button {
+    background-color: #05A63D;
+    width: fit-content;
+    padding: 3% ;
+    border-radius: 15px;
+    cursor: pointer;
+    color: wheat;
+}
+
+.current-allotment-card {
+    box-shadow: 2px 2px 18px 7px rgba(219,219,219,1);
+    border-radius: 25px;
+}
+
+.allotment-content h6 {
+    padding-bottom: 2%;
+}
